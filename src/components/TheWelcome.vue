@@ -1,4 +1,4 @@
-<script setup>
+<!-- <script setup>
 import WelcomeItem from "./WelcomeItem.vue";
 import DocumentationIcon from "./icons/IconDocumentation.vue";
 import ToolingIcon from "./icons/IconTooling.vue";
@@ -118,4 +118,4 @@ import SupportIcon from "./icons/IconSupport.vue";
       >becoming a sponsor</a
     >.
   </WelcomeItem>
-</template>
+</template> -->

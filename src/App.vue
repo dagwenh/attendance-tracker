@@ -1,6 +1,16 @@
 <script setup>
+import { RouterView } from "vue-router";
+</script>
+
+<template>
+  <RouterView />
+</template>
+
+<style scope></style>
+
+<!-- <script setup>
 import { RouterLink, RouterView } from "vue-router";
-import HelloWorld from "./components/HelloWorld.vue";
+import LandingPage from "./components/LandingPage.vue";
 </script>
 
 <template>
@@ -88,4 +98,4 @@ nav a:first-of-type {
     margin-top: 1rem;
   }
 }
-</style>
+</style> -->
